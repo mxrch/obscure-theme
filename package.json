@@ -1,0 +1,28 @@
+{
+  "name": "obscure-theme",
+  "displayName": "Obscure Theme",
+  "description": "Modern & dark theme, respecting type hints.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxrch/obscure-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obscure Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obscure Theme-color-theme.json"
+      }
+    ]
+  },
+  "sponsor": {
+  "url": "https://github.com/sponsors/mxrch"
+}
+}
