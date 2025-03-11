@@ -1,5 +1,10 @@
+<br>
 
-![Logo](assets/logo.png)
+<p align="center">
+  <img height="300" src="assets/logo.png">
+</p>
+
+<br>
 
 # Obscure
 
