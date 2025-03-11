@@ -25,5 +25,6 @@
   "sponsor": {
     "url": "https://github.com/sponsors/mxrch"
   },
-  "icon": "https://raw.githubusercontent.com/mxrch/obscure-theme/refs/heads/master/assets/logo.png"
+  "icon": "assets/logo.png",
+  "publisher": "mxrch"
 }
